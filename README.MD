@@ -7,7 +7,21 @@
 ## Why this repo
 rdash static is just a dist of the rdash-jquery; but
 * the files/directories are modified so that beginner web developer can understand what is going on.
+
 * static files are placed on 'static/' folder
+## Testing on \*NIX
+
+__Requirement__
+* Python3
+
+```
+$ make run
+```
+Raw way
+```
+$ cd <path of files>
+$ python -m SimpleHTTPServer 8181
+```
 
 
 ## @Todo
