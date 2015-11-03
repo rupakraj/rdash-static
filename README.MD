@@ -22,6 +22,7 @@ Raw way
 $ cd <path of files>
 $ python -m SimpleHTTPServer 8181
 ```
+Test on the browser [_http://localhost:8181/index.html_](http://localhost:8181/index.html)
 
 
 ## @Todo
