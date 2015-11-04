@@ -1,5 +1,8 @@
 # RDash-Static
 
+# Demo
+For demo go to [_Test_](http://rupakraj.github.io/rdash-static)
+
 ## Uses
 * [rdash-ui](https://github.com/rdash/rdash-ui)
 * [rdash-jquery](https://github.com/rdash/rdash-jquery)
